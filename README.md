@@ -1,4 +1,4 @@
-#Pedestrian Safety System using Arduino
+Pedestrian Safety System using Arduino
 
 This project is a basic Arduino-based pedestrian safety prototype developed to detect nearby objects and provide a safety indication. The system uses an HC-SR04 ultrasonic sensor to measure the distance of objects in front of it. When an object comes within a distance of 20 cm, the Arduino processes the input and activates a servo motor to indicate a safety response.
 
